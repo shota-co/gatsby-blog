@@ -4,7 +4,7 @@ module.exports = {
     description: `あとで変える`,
     author: `shota-co`,
   },
-  pathPrefix: "/gatsby-blog",
+  pathPrefix: `/gatsby-blog`,
   plugins: [
     `gatsby-plugin-react-helmet`,
     {
